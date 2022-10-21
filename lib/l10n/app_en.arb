@@ -1,0 +1,22 @@
+{
+  "language":"English",
+  "@language":{
+  "description": "The current Language"
+  },
+  "notes": "Notes",
+  "@notes":{
+  "description": "A Heading"
+  },
+  "profile": "Profile",
+  "@profile":{
+  "description": "an account"
+  },
+  "logout": "Logout",
+  "@logout":{
+  "description": "logout of an account"
+  },
+  "delete": "Delete Account",
+  "@delete":{
+  "description": "delete the account"
+  }
+}
